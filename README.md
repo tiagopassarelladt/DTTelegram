@@ -136,3 +136,5 @@ Com suporte a multipart/form-data para upload de documentos.
 - Lembre-se de proteger o token do bot para evitar acessos indesejados.
 - Consulte a [documentação oficial da API do Telegram](https://core.telegram.org/bots/api) para mais informações.
 
+https://www.youtube.com/live/s1ZGixQqZ1M
+

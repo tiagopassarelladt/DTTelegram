@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/11/28 11:57:17.000.809,=C:\Users\tiago\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2024/11/28 11:57:30.000.292,C:\Users\tiago\OneDrive\Documentos\Embarcadero\Studio\Projects\Project4.dproj=C:\Users\tiago\OneDrive\Documentos\Embarcadero\Studio\Projects\dEMO.dproj</Transaction>
+    <Transaction>2024/11/28 11:57:43.000.304,C:\Users\tiago\OneDrive\Documentos\Embarcadero\Studio\Projects\dEMO.dproj=C:\Users\tiago\OneDrive\Documentos\Embarcadero\Studio\Projects\DemoApp.dproj</Transaction>
+    <Transaction>2024/11/28 11:57:47.000.809,C:\Users\tiago\OneDrive\Documentos\Embarcadero\Studio\Projects\DemoApp.dproj=C:\Users\tiago\OneDrive\Documentos\Embarcadero\Studio\Projects\Demo.dproj</Transaction>
+    <Transaction>2024/11/28 11:58:08.000.840,C:\Users\tiago\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.dfm=D:\Dropbox\Componentes\DTPro\DTTelegram\Demo\Unit4.dfm</Transaction>
+    <Transaction>2024/11/28 11:58:08.000.840,C:\Users\tiago\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.pas=D:\Dropbox\Componentes\DTPro\DTTelegram\Demo\Unit4.pas</Transaction>
+    <Transaction>2024/11/28 11:58:10.000.961,C:\Users\tiago\OneDrive\Documentos\Embarcadero\Studio\Projects\Demo.dproj=D:\Dropbox\Componentes\DTPro\DTTelegram\Demo\Demo.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

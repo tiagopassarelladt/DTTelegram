@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/11/28 11:35:02.000.461,=rtl.dcp</Transaction>
+    <Transaction>2024/11/28 11:35:09.000.692,C:\Users\tiago\OneDrive\Documentos\Embarcadero\Studio\Projects\DTTelegram.dproj=C:\Users\tiago\OneDrive\Documentos\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2024/11/28 11:36:40.000.904,=D:\Dropbox\Componentes\DTPro\DTTelegram\DTTelegramx.pas</Transaction>
+    <Transaction>2024/11/28 11:36:53.000.202,D:\Dropbox\Componentes\DTPro\DTTelegram\DTTelegram.dproj=C:\Users\tiago\OneDrive\Documentos\Embarcadero\Studio\Projects\DTTelegram.dproj</Transaction>
+    <Transaction>2024/11/28 12:11:05.000.963,D:\Dropbox\Componentes\DTPro\DTTelegram\DTTelegram.pas=D:\Dropbox\Componentes\DTPro\DTTelegram\DTTelegramx.pas</Transaction>
+  </Transactions>
+</BorlandProject>
